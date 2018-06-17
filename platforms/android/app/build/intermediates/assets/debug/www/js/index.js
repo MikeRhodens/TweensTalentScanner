@@ -39,8 +39,8 @@ var app = {
                                 headers: {Authorization: 'bearer:' + token}
                             };
 
-                            var request = 'studens/';
-                            var id = value;
+                            var request = 'students?include=user';
+                            var id = '';
 
                             var fullUrl = url + request + id;
                             cordova.plugin.http.sendRequest(fullUrl, options, function (response) {

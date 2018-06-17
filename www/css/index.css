@@ -70,13 +70,13 @@ body,html,.app{
     position: absolute;
     padding-top: 32px;
     padding-left: 20px;
+    display: none;
 }
 .result-container,.scan-container{
-
     color: white;
 }
 .scan-container{
-    display: none;
+    display: block;
 }
 .title{
     font-size: 30px;
@@ -114,12 +114,9 @@ body,html,.app{
     outline: none;
 }
 
-
-
-
 .result-container{
     height: 100%;
-    display: block;
+    display: none;
     text-align: center;
 }
 .result-container p{
