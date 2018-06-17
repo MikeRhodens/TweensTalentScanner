@@ -1,0 +1,7 @@
+{
+	"id": 1,
+	"naam": "mike rhodens",
+	"age": "20",
+	"school": "media college",
+	"talenten": ["natuurtalen", "beweeg talent", "zelftalent"]
+}

@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "TweensTalentScanner",
+  "short_name": "TweensTalentScanner",
+  "version": "io.cordova.hellocordova",
+  "description": "A scanner for the tweenstalent event.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
